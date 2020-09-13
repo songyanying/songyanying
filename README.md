@@ -1,4 +1,9 @@
 ### Hi there 👋
+我叫宋燕英。
+现在就读与淄博职业学院。
+所读专业：软件技术。
+我喜欢分享一些心得体会，也喜欢交很多朋友。
+希望能够认识很多好学习的人。
 
 <!--
 **songyanying/songyanying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
